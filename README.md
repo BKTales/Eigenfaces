@@ -17,9 +17,6 @@ A = P D Pᵀ
 #### Functionality two [RECONSTRUCT DATABASE] -> 
 >It takes as parameters: *"Own values"; "directory with .csv AKA database"*
 
-
-![image](https://github.com/user-attachments/assets/9a2f4575-f9c4-4ece-939e-d91e0026aaeb)
-
 Fully reconstructs an image database 
 
 #### Functionality three [SEARCH CLOSEST] -> 
